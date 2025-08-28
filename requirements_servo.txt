@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+PyQt5>=5.15.0
+numpy>=1.26.0
+RPi.GPIO>=0.7.0 
